@@ -9,7 +9,15 @@ body
     margin: 0;
 }
 
-ul
+main
+{
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+}
+
+#bar
 {
   list-style-type: none;
   margin: 0;
@@ -23,7 +31,7 @@ ul
     float: left;
 }
 
-#about, #download, #home
+.bar
 {
   float: right;
 }
@@ -50,4 +58,15 @@ li p
 li a:hover
 {
   background-color: #111;
+}
+
+.section
+{
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+.center
+{
+    text-align: center;
 }
