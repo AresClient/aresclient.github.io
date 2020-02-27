@@ -1,0 +1,14 @@
++ Fixed delay in AutoCrystal and added second option for targeting
++ Rewrote AutoTrap(doesn't lock hand anymore and added two options for cages)
++ Added delay to radius scaffold
++ Added timer
++ Added experimental packetfly
++ Fixed config crashing
++ Added fakerotation
++ Added ReloadSoundSystem
++ Added VisualRange
++ Added MISC category
++ Moved MsgOnToggle to MISC
++ Moved ChatSuffix to MISC
++ Added playerPreview
++ Added tooltips to gui
