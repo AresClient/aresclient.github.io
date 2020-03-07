@@ -12,3 +12,6 @@
 + Moved ChatSuffix to MISC
 + Added playerPreview
 + Added tooltips to gui
++ Added range to hole filler
++ Added delay to hole filler
++ Fixed surround doesn't place in item hitboxes
