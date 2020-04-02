@@ -13,7 +13,6 @@
 + Added ChestESP
 + Added PortalChat
 + Added PortalGodMode
-+ Fixed AutoCrystal targeting dead players
 + Added AutoArmor
 + Added NameTags
 + Added AntiChainPop
