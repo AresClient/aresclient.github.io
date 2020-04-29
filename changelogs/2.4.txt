@@ -1,0 +1,9 @@
++ Rewrote GUI
++ Added inventory moved
++ Added bind command
++ Fixed some config issues
++ Added search
++ Added held items to nametags
++ Fixed inventory render bugs
++ Added crytal kill check to auto ez
++ fixed AutoHotbarReplenish desync issues
