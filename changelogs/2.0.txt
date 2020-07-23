@@ -1,0 +1,11 @@
++ Rewrote whole base of client
++ Added multitask
++ Added noBreakReset
++ Added blink
++ Moved Ares button under back to game button
++ Added toggleable Discord RPC
++ Added logo as HUD element
++ Added smoothElytra
++ Added autoTotem
++ Remade hud
++ Fixed Surround centering

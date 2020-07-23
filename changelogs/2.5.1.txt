@@ -1,0 +1,2 @@
++ Fix compatibility with salhack terminal
++ Fix null pointer when logging in on some computers

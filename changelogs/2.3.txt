@@ -1,0 +1,20 @@
++ Integrated Clantags mod to client
++ Added Chams
++ Added ExtraTab
++ Added FullBright
++ Added NoWeather
++ Added Tracers
++ Added Velocity
++ Added IceSpeed
++ Added EntitySpeed
++ Added RotationLock
++ Added Freecam
++ Added AntiHunger
++ Added ChestESP
++ Added PortalChat
++ Added PortalGodMode
++ Added AutoArmor
++ Added NameTags
++ Added AntiChainPop
++ Updated Elytrafly control mode
++ Added AntiOverlay

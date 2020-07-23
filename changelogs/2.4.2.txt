@@ -1,0 +1,4 @@
++ Updated emojis plugin
++ Added map tooltips
++ Added noArmorRender
++ Added NoFog
