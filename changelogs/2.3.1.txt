@@ -1,7 +1,0 @@
-+ Fixed crashing with KAMI
-+ Added CameraClip
-+ Added nopush to Velocity modules
-+ Fixed coords in nether
-+ Fixed coords in nether
-+ Added direction to coords
-+ Added direction options to rotation lock
