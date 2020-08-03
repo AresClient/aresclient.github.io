@@ -1,3 +1,0 @@
-+ Fixed Criticals crash
-+ Fix freecams
-+ Added emojis
